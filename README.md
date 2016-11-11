@@ -5,6 +5,7 @@ eg: 41424344 => \x44\x43\x42\x41
 
 # usage
 ./addrflipper.py 41424344
+
 you can also import retaddr(addr) function to your exploit script and use it as part of it
 
 # screens
